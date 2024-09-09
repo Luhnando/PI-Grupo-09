@@ -17,7 +17,7 @@ Pesquisar Cadastros<br>
 OBS: Estes cadastros serão utilizados no sistema de gerenciamento da universidade, contando com as propriedade e funcionalidades apresentadas no Diagramas de Classes UML e no Diagrama de Caso de Uso abaixo.
 
 ## Diagrama de Classes UML
-
+![diagramama-de-classes-uml](https://github.com/user-attachments/assets/49e9021f-6157-4561-83f6-9ca030a66970)
 
 ## Diagrama de Caso de Uso
-
+![diagrama-de-caso-de-uso](https://github.com/user-attachments/assets/2a48c261-5c4c-45cb-b541-3f93eb81cd8d)
